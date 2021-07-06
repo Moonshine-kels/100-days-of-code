@@ -14,3 +14,4 @@ I completed 1 hour of applied accessibility but didn't complete it all. I did ha
 Thoughts: I got distracted and didn't feel satisfied with my results will do better the next day.
 
 ### R1D3
+ I have compeleted applied accessibility section for the Responsive Web Design Certificate.
