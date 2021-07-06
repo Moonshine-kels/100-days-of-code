@@ -9,3 +9,8 @@ Finally completed the "Applied Visial Design" on FreeCodeCamp.com. I am on my wa
 Thoughts: Not gonna lie. Coding is not easy but my enjoyment overpasses the frustrations. :muscle: :sunglasses: :brain: Oh and this is time consuming doing 2+ hours of coding each day. I got this!!
 
 ### R1D2
+I completed 1 hour of applied accessibility but didn't complete it all. I did half of my goal. 
+
+Thoughts: I got distracted and didn't feel satisfied with my results will do better the next day.
+
+### R1D3
