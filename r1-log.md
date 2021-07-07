@@ -14,4 +14,6 @@ I completed 1 hour of applied accessibility but didn't complete it all. I did ha
 Thoughts: I got distracted and didn't feel satisfied with my results will do better the next day.
 
 ### R1D3
- I have compeleted applied accessibility section for the Responsive Web Design Certificate.
+ I have compeleted applied accessibility section for the Responsive Web Design Certificate. 
+ 
+I am trying to do the exercises of Hashes on Open App Academy and man it is super difficult to complete. I can never seem to figure it out myself and always look at the hints and solutions. Idk if it is just me that I do not understand it and give up too easily or if I need a tutuor to help me lol. Nevertheless, I am not going to give up. I'm going to try harder than last time and will try to figure it out even if it rips my brains out. I'll go back to my notes look at the previous exercises and do them!! 
