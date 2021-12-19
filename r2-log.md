@@ -28,3 +28,13 @@ I have stopped, the web development because I want to get through this guide. On
 Also, with App Academy, I have put it on hold till I am done with khan's courses of programming. 
 
 I love this and I am excited to do more tomorrow!
+
+# #100DaysOfCode Log - Round 2 - [Kels]
+
+he log of my #100DaysOfCode challenge. Started on [December 19, 2021 Sunday].
+
+## Log
+
+### R2D1 (DECEMBER 19, 2021)
+
+Took a 5 month hiatus. Some part is because I forgot to write on this and another is because I wasn't disciplined enough and stopped coding entirely. However, I realized that I love coding and I want to make a career out of this. Therefore, I am going to start all over again but I am going to be serious and go all in. I am planning on dedicating 3-4 hours of learning how to code!
